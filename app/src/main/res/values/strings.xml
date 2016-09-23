@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContentProviderServerTest</string>
+    <string name="content_authority">com.commax.contentproviderservertest.app</string>
+</resources>
